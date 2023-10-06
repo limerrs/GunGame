@@ -1,0 +1,1 @@
+run GunGame.exe to play
